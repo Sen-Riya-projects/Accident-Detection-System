@@ -1,3 +1,5 @@
+This Project is a Team Work.
+
 # AccidentDetectionSystem
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) &nbsp;
